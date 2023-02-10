@@ -1,0 +1,10 @@
+# Add the dependencies below in your yaml
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  dio: ^4.0.6
+  pretty_dio_logger: ^1.1.1
+  provider: ^5.0.0
+  get_it: 6.0.0
